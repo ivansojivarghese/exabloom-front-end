@@ -52,3 +52,7 @@ npm install
 ### 3. Run the app
 ```bash
 npm run dev
+```
+
+### Loom Video
+![Watch the walkthrough here](https://www.loom.com/share/749bae6c195b47088192d5e4561896d6?sid=764cc4b5-a41a-47a2-9485-63c89a5321c2)

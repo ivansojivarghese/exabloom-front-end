@@ -1,6 +1,6 @@
 # Exabloom - React Flow Workflow Builder
 
-This is my submission for the **Exabloom Frontend React Flow Test**. It is a workflow builder built using **React**, **React Flow**, and optional **TypeScript**.
+This is my submission for the **Exabloom Frontend React Flow Test**. It is a workflow builder built using **React** & **React Flow**.
 
 ---
 
@@ -30,11 +30,17 @@ This is my submission for the **Exabloom Frontend React Flow Test**. It is a wor
   - Editing branch labels via If/Else node only
   - Deleting If/Else node removes all children nodes
 
+## Tech Stack
+- React (Vite)
+- React Flow (react-flow-renderer)
+- UUID for node IDs
+- Plain CSS for quick styling
+
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
+### Clone the repo
 ```bash
 git clone https://github.com/YOUR_USERNAME/exabloom-workflow-builder.git
 cd exabloom-workflow-builder
